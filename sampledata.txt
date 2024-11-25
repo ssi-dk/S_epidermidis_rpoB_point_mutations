@@ -1,0 +1,4 @@
+SAMPLE	TAXON_ID	SCIENTIFIC_NAME	DESCRIPTION	isolation_source	collection_date	geographic _location	host_health_state	host_scientific_name	isolate	sample_alias
+rpoB_FR	1282	Staphylococcus epidermidis	rpoB gene sequence	Human	2015-2020	France	na	Homo sapiens	na	rpoB_genes_FR
+rpoB_SE	1282	Staphylococcus epidermidis	rpoB gene sequence	Human	2007-2016	sweden	na	Homo sapiens	na	rpoB_genes_SE
+rpoB_DK	1282	Staphylococcus epidermidis	rpoB gene sequence	Human	2022-2024	Denmark	na	Homo sapiens	na	rpoB_genes_DK
